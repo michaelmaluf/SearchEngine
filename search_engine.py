@@ -92,6 +92,7 @@ def search(query):
                     search_results[doc['id']]['score'] += doc['score']
 
     ranked_results = sorted(search_results.values(), key=lambda x: x['score'], reverse=True)
+    print(ranked_results)
     return ranked_results
 
 app = Flask(__name__)
@@ -108,5 +109,5 @@ def search_query():
     return jsonify(results)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=8000, debug=True)
 
