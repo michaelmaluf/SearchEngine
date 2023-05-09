@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "content": "Python is an amazing language for beginners."
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "content": "Just started learning JavaScript. Excited about web development!"
+  },
+  {
+    "id": 3,
+    "username": "user3",
+    "content": "Data Science is fascinating. I'm enjoying learning about Machine Learning."
+  },
+  {
+    "id": 4,
+    "username": "user4",
+    "content": "Java is a great language for building robust applications."
+  },
+  {
+    "id": 5,
+    "username": "user5",
+    "content": "I've been exploring the world of Artificial Intelligence. It's amazing!"
+  },
+  {
+    "id": 6,
+    "username": "user6",
+    "content": "Ruby on Rails makes web development so much easier!"
+  },
+  {
+    "id": 7,
+    "username": "user7",
+    "content": "C++ is a powerful language for building high-performance software."
+  },
+  {
+    "id": 8,
+    "username": "user8",
+    "content": "Diving into the world of Big Data and Hadoop!"
+  },
+  {
+    "id": 9,
+    "username": "user9",
+    "content": "Swift is a fantastic language for iOS app development!"
+  },
+  {
+    "id": 10,
+    "username": "user10",
+    "content": "R is a great language for statistical computing and data visualization."
+  },
+  {
+    "id": 11,
+    "username": "user11",
+    "content": "Blockchain technology is revolutionizing the way we handle data."
+  },
+  {
+    "id": 12,
+    "username": "user12",
+    "content": "Working on a project using React Native for mobile app development."
+  },
+  {
+    "id": 13,
+    "username": "user13",
+    "content": "Just attended a meetup on the Internet of Things. Fascinating stuff!"
+  },
+  {
+    "id": 14,
+    "username": "user14",
+    "content": "Exploring cloud computing with Amazon Web Services."
+  },
+  {
+    "id": 15,
+    "username": "user15",
+    "content": "Docker has made containerization so much simpler."
+  },
+  {
+    "id": 16,
+    "username": "user16",
+    "content": "Laravel is a fantastic PHP framework for web development."
+  },
+  {
+    "id": 17,
+    "username": "user17",
+    "content": "Learning about version control with Git and GitHub."
+  },
+  {
+    "id": 18,
+    "username": "user18",
+    "content": "SQL databases are essential for managing structured data."
+  },
+  {
+    "id": 19,
+    "username": "user19",
+    "content": "NoSQL databases like MongoDB have some great use cases."
+  },
+  {
+    "id": 20,
+    "username": "user20",
+    "content": "Functional programming languages like Haskell are intriguing."
+  },
+  {
+    "id": 21,
+    "username": "user21",
+    "content": "Kotlin is a great alternative to Java for Android development."
+  },
+  {
+    "id": 22,
+    "username": "user22",
+    "content": "Developing web applications with Node.js and Express is fun!"
+  },
+  {
+    "id": 23,
+    "username": "user23",
+    "content": "Vue.js is a lightweight and flexible framework for building user interfaces."
+  },
+  {
+    "id": 24,
+    "username": "user24",
+    "content": "Angular is a powerful framework for building complex web applications."
+  },
+  {
+    "id": 25,
+    "username": "user25",
+    "content": "Just completed a course on the basics of computer programming!"
+  },
+  {
+    "id": 26,
+    "username": "user26",
+    "content": "Attending a conference on virtual reality and augmented reality technologies."
+  },
+  {
+    "id": 27,
+    "username": "user27",
+    "content": "Learning how to design user experiences and user interfaces."
+  },
+  {
+    "id": 28,
+    "username": "user28",
+    "content": "Working on a project with Apache Spark for big data processing."
+  },
+  {
+    "id": 29,
+    "username": "user29",
+    "content": "Learning how to use TensorFlow for deep learning applications."
+  },
+  {
+    "id": 30,
+    "username": "user30",
+    "content": "Exploring the world of cybersecurity and ethical hacking."
+  },
+  {
+    "id": 31,
+    "username": "user31",
+    "content": "Attended a workshop on natural language processing and chatbots."
+  },
+  {
+    "id": 32,
+    "username": "user32",
+    "content": "Excited about the potential of quantum computing in the future."
+  },
+  {
+    "id": 33,
+    "username": "user33",
+    "content": "Developing a progressive web app using modern web technologies."
+  },
+  {
+    "id": 34,
+    "username": "user34",
+    "content": "Building an e-commerce website using Django and Python."
+  },
+  {
+    "id": 35,
+    "username": "user35",
+    "content": "Attending a conference on the future of robotics and automation."
+  },
+  {
+    "id": 36,
+    "username": "user36",
+    "content": "Working on a project with machine learning algorithms for image recognition."
+  },
+  {
+    "id": 37,
+    "username": "user37",
+    "content": "Exploring the possibilities of computer vision and its applications."
+  },
+  {
+    "id": 38,
+    "username": "user38",
+    "content": "Just completed a course on software engineering principles."
+  },
+  {
+    "id": 39,
+    "username": "user39",
+    "content": "Learning how to develop video games using Unity and C#."
+  },
+  {
+    "id": 40,
+    "username": "user40",
+    "content": "Attending a workshop on data visualization and reporting tools."
+  },
+  {
+    "id": 41,
+    "username": "user41",
+    "content": "Working on an IoT project using Raspberry Pi and Python."
+  },
+  {
+    "id": 42,
+    "username": "user42",
+    "content": "Learning about DevOps and continuous integration and deployment."
+  }
+]
